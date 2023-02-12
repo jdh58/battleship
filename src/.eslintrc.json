@@ -13,7 +13,7 @@
     "no-console": "off",
     "quotes": [
       "warn",
-      "double",
+      "single",
       { "avoidEscape": true, "allowTemplateLiterals": false }
     ],
     "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }]
